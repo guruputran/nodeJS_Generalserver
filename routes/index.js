@@ -4,7 +4,7 @@ module.exports = [
   // Employee Routes
   require("./employee"),
   //User routes
-  require("./user"),
+  // require("./user"),
 
   //Post Routes
   require("./post"),
